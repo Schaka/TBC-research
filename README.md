@@ -9,4 +9,4 @@ Please create new issues and use this as an information dump. I (and hopefully s
 
 
 # Credits
-Big thanks to Tsu from Atlantiss.eu for providing all information regarding the Dark Portal Opening Event
+Big thanks to Tsu from Atlantiss.eu for providing all information regarding the "Dark Portal Opens" Event
