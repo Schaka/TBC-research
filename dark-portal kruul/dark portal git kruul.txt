@@ -1,0 +1,107 @@
+- [ ] **Hand of the Highlord [19214]**
+`- They should be changed to neutral due to not interfering with low level people leveling`
+`- They shouldn't be linked together if you pull them without the Kruul`
+`- Hand of the Highlord are hard linked to the Highlord Kruul if you pull him while they are alive`
+`- Currently researching their abilities but it seems like they only do melee attacks`
+`- They should be easy to kill/solo (?)`
+
+- [ ] **Hand of the Highlord loot table**
+`- They should have guaranteed rare BoE drop`
+`- http://www.open-wow.com/?npc=19214`
+
+- [ ] **Infernal Hound [19207]**
+`- They aren't linked to Hand of the Highlord and Highlord Kruul`
+`- They should be neutral (or hostile only when soloable)`
+`- They should use Immolation [19483] ability`
+`- They are summoned in the Kruul spawn point via spell Summon Infernaling [33533]`
+`- There should be one Infernal Hound spawning every 2 minutes`
+
+- [ ] **General**
+`- He should be changed to neutral due to not interfering with low level people leveling`
+`- He is missing his sword Monster - Sword2H, Horde Skull Blue Flame [13623]`
+
+- [ ] **Spawn** 
+`- He should be present in one of 7 zones: Blasted Lands (Kazzak place), Eastern Plaguelands, Azshara, Hinterlands, Stranglethorn Vale, Winterspring and Searing Gorge`
+`- When spawned he should leave pool of fire in the place of his spawn point`
+`- Two Hand of the Highlord [19214] should spawn with him and follow the patrol`
+
+- [ ] **Patrol** Research -> Random say timer during patrol (5-10 minutes?)
+`- He should be patroling in on of 7 zones (look more in comments)`
+`- He kills every NPC, friendly, hostile or neutral on the patrol way with his Kazzak's Assault ability`
+
+
+- [ ] **Despawn**
+`- If he don't die in 4-6 hours he should despawn and appear in another location`
+`- Before despawning he should yell despawn quote`
+
+- [ ] **Loot table**
+`- Eskhandar's Pelt `
+`- Blacklight Bracer`
+`- Fel Infused Leggings`
+`- Doomhide Gauntlets`
+`- Flayed Doomguard Belt`
+`- Infernal Headcage`
+`- Blazefury Medallion`
+`- Empyrean Demolisher`
+`- Amberseal Keeper`
+`- Ring of Entropy`
+`- The Eye of Shadow (100%)`
+
+- [ ] **Quotes**
+Random Yells:
+`- Azeroth has cowered too long under our shadow! Now, feel the power of the Burning Crusade, and despair!`
+`- Your fate is sealed, Azeroth! I will find the Aspect Shards, and then you will not stand against our might!`
+`- Cower, little worms! Your heroes are nothing! Your saviors will be our first feast!`
+`- Where? Where are the Shards! You cannot hide them from us!`
+`- Your world will die, mortals! Your doom is now at hand!`
+Killing the player:
+` Your own strength feeds me, (player)!`
+Despawn:
+`- Ha! This place is not yet worthy of my infliction.`
+
+- [ ] **Abilities**
+Most of his abilities are copies from Lord Kazzak, which is fitting since he is Kazzak's minion. He has yet to be observed using all of Kazzak's abilities.
+`- Melee attacks: No heavy melee damage with his normal attacks (Probably 200-400 per hit)` ^3
+`- Shadowbolt Volley [21341:  Shoots out a long range cluster of shadow bolts for around 2,000 damage. Even when out of line of sight players will still be hit.`
+`- Twisted Reflection [21063]: Magic debuff that heals Highlord Kruul for 25,000hp every time he attacks the afflicted player. Also slows the affected player's movement speed by 50%.`
+`- Thunderclap [23931]: An AOE nature spell hitting close range players. Low damage, slows movement speed by 33% and Time between attacks increased by 100%`
+`- Void Bolt [21066]: Single target shadowbolt Kruul casts on his target. This does around 3,000 shadow damage.` ^2
+`- Capture Soul [21054]**:  When a player is killed, Highlord Kruul instantly gains 70,000 hp and yells` ^4
+comments for Abilities:
+`- Kazzak's Assault [33512]: Instantly kills Kruul's target in 20 yards. Only used against NPCs.` ^5
+
+**^2** `TwinStar states it does 3,500 (no school?) damage`
+**^3** `krmtdfrog, January 10 2007: The fight is basically the same thing as Kazzak. Shadowbolt volleys, etc. He just melee hits a lot harder and enrages sooner`
+**^4** `Highlord Kruul: Your own strength feeds me, (player)!`
+**^5** `Video proof: https://youtu.be/6XEk6HnOoYU?t=92 (look on the left side)`
+
+- [ ] **BERSKER / ENRAGE STAGE** (research abilities -> 32964/21340/32965
+`- He should use Berserk [21340] or [32965] during his enrage stage`
+`- Enrage / Berserk should happen after 90 seconds` ^1
+
+**^1** `By echos (347 – 1·3) on 2007/01/11 (Patch 2.0.3): His enrage timer is 90 secs compared to Kazzak's 3 min timer.`
+
+- [ ] **Twisted Reflection [21063] behaviour**
+`- Twisted Reflection can be spell-reflected by a tank warrior`
+
+https://www.youtube.com/watch?v=AnpaiuoJFkU
+https://www.youtube.com/watch?v=aWoZvfXBctg
+
+WIP - Azshara:
+No 100% confirmed info, but Smaily is onto something
+(Primal WoW image)
+
+Hinter:
+https://www.youtube.com/watch?v=IATR6-8QD48
+
+- [ ] **Winterspring** (I think he moves further to Darkwhisper Gorge bridge but I couldn't find proof of that)
+`- Image containing Waypoints from ".gps" command`
+![kruul-winterspring](https://user-images.githubusercontent.com/11255782/46922351-18d92580-d008-11e8-943c-e3b50c7e4c5a.png)
+
+- [ ] **Searing Gorge**
+`- Image containing Waypoints from ".gps" command`
+![kruul - searing gorge](https://user-images.githubusercontent.com/11255782/46920990-39987f80-cff6-11e8-8696-034f2c6f16a8.png)
+
+- [ ] **Stranglethorn Vale**
+`- Image containing Waypoints from ".gps" command`
+![kruul - stranglethorn vale](https://user-images.githubusercontent.com/11255782/46920988-343b3500-cff6-11e8-9de5-d654a79c1b1a.png)
