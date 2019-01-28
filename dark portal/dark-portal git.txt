@@ -1,3 +1,181 @@
+**Sorted**
+- [x] **Sound**:
+`- Remove Kazzak + horns replaying when event appears (custom)`
+
+- [x] **Infernal Hound**
+`- Infernal Hounds are only spawning with Highlord Kruul, they aren't present near the Dark Portal`
+
+- [x] **Watcher Theronus [19567] and Nethergarde Advisor [19566]**
+`- There should be Watcher Theronus accompanied with two Nethergarde Adivsors: (in place of Argent Guardian currently)`
+![image](https://user-images.githubusercontent.com/11255782/46919262-275e1780-cfdd-11e8-8739-cc3e6863a2e4.png)
+![image](https://user-images.githubusercontent.com/11255782/46919306-d0a50d80-cfdd-11e8-96f3-38c43e2f22e4.png)
+
+- [x] **Watcher Theronus**
+`- He should be using Monster - Staff, Ornate Mage Staff [2177]`
+`- He should be friendly to Alliance and Horde players`
+`- If Watcher Mahar Ba [5385] is using any abilities, they should share them`
+
+- [x] **Stormwind Marshal**
+`- They should be using main-hand weapon Monster - Sword, Golden Long [12944] instead`
+
+- [x] **Thunder Bluff Huntsman**
+`- They should be using two-hand weapon Monster - Axe, 2H Battle A03 Red [14643] instead`
+
+- [x] **Argent Protector**
+`- They are using wrong shield modle, should be using Monster - Shield, Kite Metal [1984]`
+`- They are using wrong sword model, should be using Monster - Sword, Long Ornate [2178]`
+PROOF
+![image](https://user-images.githubusercontent.com/11255782/47224099-fefa6280-d3ba-11e8-9223-db68d51e9bb7.png)
+
+- [ ] **Argent Protector, Argent Guardian**
+`- They should be walking around normally too, not only running`
+`- We need like 3/4 more of them (2 Protectors / 2 Guardians)`
+
+- [x] **Argent Hunter** https://youtu.be/4kjRKojcE0I?t=86
+`- They are way more different than Bowman in the first place`
+`- They are using wrong main-hand weapon model, should be using Weapon: Monster - Axe, 2H Horde Green War Axe [12294]`
+`- They are using wrong thrown (Axe) instead of shooting the bow, should be using Thrown weapon: Monster - Throwing Axe [5856])`
+![image](https://user-images.githubusercontent.com/11255782/47224188-2cdfa700-d3bb-11e8-885c-d3fb57cdc38e.png)
+
+- [ ] **Argent Hunter, Bowman, Protector, Guardian**
+`- Lower their damage for the different waving system 2.0/3.0`
+
+- [x] **Agent Proudwell**
+`- He is missing his weapon Monster - Sword, Broadsword Silver Hilt [5305] and shield Monster - Shield, Wall Metal Silver [12980]`
+`- He should be accompanied by one Argent Protector and one Argent Guardian (or random)`
+![image](https://user-images.githubusercontent.com/11255782/46919472-25498800-cfe0-11e8-8b1c-910ffe324815.png)
+![image](https://user-images.githubusercontent.com/11255782/47263330-ad0f2500-d4ff-11e8-9848-05f24e08f641.png)
+
+- [x] **Argent Bowman**
+`- They are using wrong main-hand weapond model, should be using Monster - Dagger, Exotic B01 Green [17282]`
+`- They are using wrong bow model, should be using Monster - Bow, Gray [5261]`
+`- Should be using Arcane Shot instead of Serpent Sting`
+![image](https://user-images.githubusercontent.com/11255782/47218333-b6877880-d3ab-11e8-904f-384c180ff4fa.png)
+![image](https://user-images.githubusercontent.com/11255782/47224242-526cb080-d3bb-11e8-8238-ba577bd962ea.png)
+
+- [ ] **Nethergarde Advisor**
+`- They should be friendly to Alliance and Horde players`
+`- Nethergarde Advisor should joing the Dreadknight fight, if it's up and there is no other Heroes (Justinius, Raynor or Melgromm) spawned`
+`- They can be human only during the event (no proof for Gnome version)`
+`- They should have dagger as a weapon and melee attack with it, if no mana for Fireball - Monster - Dagger Badass [2711]`
+`- Should have ability called: Fireball`
+
+- [ ] **Melgromm Highmountain**
+`- His Totem should buff nearby players too`
+
+- [x] **Lord Marshal Raynor**
+`- He is using wrong two-hand sword model, should be using Monster - Sword2H, Red White Broad [12949]` https://youtu.be/4kjRKojcE0I?t=115
+![image](https://user-images.githubusercontent.com/11255782/47224350-98c20f80-d3bb-11e8-82b4-3c44f1f5bfaf.png)
+
+- [x] **Invading Voidwalker**
+`- They are too big`
+`- There shouldn't be a wave containing only Voidwalkers (they are support - 1 or 2 in the wave)`
+`- They should cast Shadow Bolt spell from the distance`
+
+- [x] **Invading Anguisher**
+`- They are too big (please use normal morph size)`
+
+- [x] **Invading Felguard**
+`- They are too big`
+![image](https://user-images.githubusercontent.com/11255782/47217988-94412b00-d3aa-11e8-95f0-58c4ed2bb768.png)
+
+- [ ] **Invading Infernal**
+`-`
+
+- [x] **Felguard Lieutenant** (LOOK THE WAVING SYSTEMS ON TOP!)
+`- He should use Skull Crack [15621] ability`
+`- It seems there is no Felguard Lieutenant only waves instead (read below)`
+`- There should be one Felguard Lieutenant for each Invading Felguard wave`
+
+- [x] **Invading Fel Stalker**
+`- They are too big (should be a little bit bigger than normal Fel Stalkers - warlock pet)`
+![image](https://user-images.githubusercontent.com/11255782/47218109-fef26680-d3aa-11e8-9b44-34a8b6a66fb4.png)
+
+- [x] **Silvermoon Magister**
+`- Should fight demons when they are near her`
+`- We are missing one sitting Silvermoon Magister in the Horde camp here:`
+![image](https://user-images.githubusercontent.com/11255782/47219719-ea649d00-d3af-11e8-9bc2-802ab45ea761.png)
+with proof https://youtu.be/ThiCnkxDi60?t=233
+![image](https://user-images.githubusercontent.com/11255782/47219736-fcded680-d3af-11e8-8cb3-ed707c28a2f1.png)
+
+- [ ] **Justinius the Harbinger**
+`- He should be accompanied by 5 Vindicators`
+`- He should use his Greater Blessing of Might [33564] on nearby allies when entering the field (don't know if only Alliance, or both Horde and Alliance) (sometimes he uses it and sometimes he doesn't)`
+`- Missing random say: Yes! Hold your feet firm! Lend aid to your cohorts and together our banded strength will overcome these demons! Cling fiercely to hope and grip tightly your weapons, and trust that the Light will pierce this darkness and shine through to morrow's dawn!`
+`- He should say this randomly instead of yell on spawn: With each passing moment, I see the people of Azeroth prove again the reasons we have come. It is with solemn pride that I fight with you, and if I die this day, then I die among friends.`
+`- He should say this randomly instead of yell on spawn: The demons should be in no doubt that we are their nemesis and, though they wish our destruction, it is we who bring about their ruin. Kazzak and his forces will be diminished and defeated by this coalition. And to do this, we must throw at them our bodies and hearts, for they seek no less than the obliteration of this world.`
+
+- [ ] **Lord Marshal Raynor and Stormwind Marshal**
+`- Lord Marshal Raynor is missing his bodyguards (5) called Stormwind Marshal [19386]`
+
+- [ ] **IMPORTANT UPDATE ON DREADKNIGHT SITUATION**
+`- It seems that there is a chance to Justinius the Harbringer, Lord Marshal Raynor or Melgromm Highmountain to not appear. In this case two Nethergarde Advisor should join the fight with Dreadknight leaving Watcher Theronus alone`
+`- Sometimes there is wrong timing on yells for both Dreadknight and Heroes (spotted on Justinus, might be same with others)`
+![image](https://user-images.githubusercontent.com/11255782/47224572-230a7380-d3bc-11e8-82d1-f5beb5b8d8a7.png)
+
+- [ ] **Justinius the Harbinger / Lord Marshal Raynor / Melgromm Highmountain**
+`- They should stay for a while after they kill Dreadknight and then go through the portal. (is it possible to make them go streight through the portal, not stoping in that waypoint in the bottom of the stairs?)`
+`- Sometimes they spawn without their bodyguards (fix it!)`
+`- It looks like they should ignore Portal Hounds in the camp and aggro only Invading Felguard, Felguard Lieutenant, Fel Stalker, Anguisher, Voidwalker, Infernal and Dreadknight`
+
+!IMPORTANT -> Works fine (just trigger should be closer do the portal, look below)
+- [ ] **Lord Marshal Raynor and Gnomeregan Conjuror**
+When Lord Marshal Raynor is about to spawn to fight with Dreadknight the following should happen:
+`- Two Gnomeregan Conjurors spawn on trigger (I listed It below) - they should spawn with Dreadknight, so they have time to summon Lord Marshal Raynor`
+`- Gnomeregan Conjurors should start to cast portal to Stormwind`
+`- After a second or so, Lord Marshal Raynor goes out of the portal and creates formation with Stormwind Marshals`
+`- Lord Marshal Raynor and Stormwind Marshals rush to the portal to fight Dreadknight together`
+
+- [ ] **TRIGGER: https://youtu.be/21_YJ2uZBL0**
+`- Trigger should be close to the portal, here:`
+![image](https://user-images.githubusercontent.com/11255782/46920063-be7c9c80-cfe8-11e8-8324-0986892c77b4.png)
+
+- [ ] **Portal Hound** I NEED MORE RESEARCH FOR IT (WIP -> https://youtu.be/ZqEy5VMXvDs?t=287)
+`- They are summoned via Summon Infernaling (Portal Hound) [33708] spell`
+`- They are too big`
+`- They should use: Arcane Explosion ability and Immolation [19483]`
+`- They have Immolation Aura (something like this ability)` can be seen here https://youtu.be/4kjRKojcE0I?t=106
+`- They should run past the barricades, set camp on fire and fight with guards in the camp (not under the portal)`
+![image](https://user-images.githubusercontent.com/11255782/47218582-90160d00-d3ac-11e8-9083-a32484b136a9.png)
+![image](https://user-images.githubusercontent.com/11255782/47218973-c3a56700-d3ad-11e8-901a-9e99ac772701.png)
+
+- [x] **Dreadknight**
+`- Dreadknigh Shadowbolt Volley ability should hit only NPCs on Aggro list, currently it's hitting every Argent Guaridan, Bowman, Hunter and Protector in X yards`
+`- When Dreadknight spawns,  4 Invading Voidwalkers and 2 Invading Anguishers spawns too (they are not linked together!!!)`
+![image](https://user-images.githubusercontent.com/11255782/47217188-dd43b000-d3a7-11e8-8100-6bf34ec1548a.png)
+`- Voidwalkers and Anguishers walk to the places on the screenshot above`
+`- Dreadknight stays at the portal and waits for one of the Hereos to come to him`
+![image](https://user-images.githubusercontent.com/11255782/47218194-48db4c80-d3ab-11e8-82b0-d77002ab8e93.png)
+`- Voidwalkers spots for Dreadknight wave:`
+![image](https://user-images.githubusercontent.com/11255782/47217297-33185800-d3a8-11e8-883a-08c4b1d70454.png)
+![image](https://user-images.githubusercontent.com/11255782/47217314-43303780-d3a8-11e8-8713-a7d3b17d09da.png)
+![image](https://user-images.githubusercontent.com/11255782/47217324-4aefdc00-d3a8-11e8-91ab-9be249922168.png)
+![image](https://user-images.githubusercontent.com/11255782/47217337-59d68e80-d3a8-11e8-9371-b0ec5c654b9a.png)
+`- Anguishers spots for Dreadknight wave:`
+![image](https://user-images.githubusercontent.com/11255782/47217269-1bd96a80-d3a8-11e8-9208-9989bfa9e5c7.png)
+![image](https://user-images.githubusercontent.com/11255782/47217287-2c89e080-d3a8-11e8-982e-0189a9f28f9b.png)
+
+- [ ] **Portal Hound Camp Flames**
+`- There are several spot in the camp where flames appear whenever Portal Hound is near`
+alliance-tent
+![image](https://user-images.githubusercontent.com/11255782/47230303-31f82280-d3ca-11e8-9872-ba8ff729b845.png)
+alliance-cart
+![image](https://user-images.githubusercontent.com/11255782/47230311-37ee0380-d3ca-11e8-8b66-ee5ce4a09a58.png)
+alliance-night-elf-tent
+![image](https://user-images.githubusercontent.com/11255782/47230424-74b9fa80-d3ca-11e8-88bb-08d0a0e78a70.png)
+alliance-barrel-cart
+![image](https://user-images.githubusercontent.com/11255782/47230446-80a5bc80-d3ca-11e8-8cfd-16b8c0270e36.png)
+horde-big-cart
+![image](https://user-images.githubusercontent.com/11255782/47230464-8d2a1500-d3ca-11e8-9b6d-2bba209ece1d.png)
+horde-ballista
+![image](https://user-images.githubusercontent.com/11255782/47230573-e134f980-d3ca-11e8-83d3-9a5602c44fcb.png)
+horde-cart-2
+![image](https://user-images.githubusercontent.com/11255782/47230644-15a8b580-d3cb-11e8-8161-09c55befe2e1.png)
+neutral-ballista
+![image](https://user-images.githubusercontent.com/11255782/47230664-21947780-d3cb-11e8-8d06-05d09d28ce72.png)
+allianec-ballista
+![image](https://user-images.githubusercontent.com/11255782/47231002-0ece7280-d3cc-11e8-92ea-a022db28d253.png)
+
 - [ ] **IMPORTANT -> WAVES UPDATE** (It might be more complicated system than just waves, something like timers etc. but the following is quite accurate)
 _This is important to work on because right now there is overflow of Demons coming out from the Portal and it looks like 500% custom shit in compere to videos from retail_
 **WAVING SYSTEM 2.0 (based on wave type)**:
@@ -25,195 +203,112 @@ Invading Infernals behaviour for System 3.0
 `- they spawn in all stages due to them being meteor hit spawns`
 
 
-- [ ] **IMPORTANT UPDATE ON DREADKNIGHT SITUATION**
-`- It seems that there is a chance to Justinius the Harbringer, Lord Marshal Raynor or Melgromm Highmountain to not appear. In this case two Nethergarde Advisor should join the fight with Dreadknight leaving Watcher Theronus alone`
-`- Sometimes there is wrong timing on yells for both Dreadknight and Heroes (spotted on Justinus, might be same with others)`
-![image](https://user-images.githubusercontent.com/11255782/47224572-230a7380-d3bc-11e8-82d1-f5beb5b8d8a7.png)
+-----
 
-- [ ] **Sound**:
-`- Remove Kazzak + horns replaying when event appears (custom)`
+- [ ] **Hand of the Highlord [19214]**
+`- They should be changed to neutral due to not interfering with low level people leveling`
+`- They shouldn't be linked together if you pull them without the Kruul`
+`- Hand of the Highlord are hard linked to the Highlord Kruul if you pull him while they are alive`
+`- Currently researching their abilities but it seems like they only do melee attacks`
+`- They should be easy to kill/solo (?)`
 
-- [ ] **Watcher Theronus [19567] and Nethergarde Advisor [19566]**
-`- There should be Watcher Theronus accompanied with two Nethergarde Adivsors: (in place of Argent Guardian currently)`
-![image](https://user-images.githubusercontent.com/11255782/46919262-275e1780-cfdd-11e8-8739-cc3e6863a2e4.png)
-![image](https://user-images.githubusercontent.com/11255782/46919306-d0a50d80-cfdd-11e8-96f3-38c43e2f22e4.png)
+- [ ] **Hand of the Highlord loot table**
+`- They should have guaranteed rare BoE drop`
+`- http://www.open-wow.com/?npc=19214`
 
-- [ ] **Watcher Theronus**
-`- He should be using Monster - Staff, Ornate Mage Staff [2177]`
-`- He should be friendly to Alliance and Horde players`
-`- If Watcher Mahar Ba [5385] is using any abilities, they should share them`
+- [ ] **Infernal Hound [19207]**
+`- They aren't linked to Hand of the Highlord and Highlord Kruul`
+`- They should be neutral (or hostile only when soloable)`
+`- They should use Immolation [19483] ability`
+`- They are summoned in the Kruul spawn point via spell Summon Infernaling [33533]`
+`- There should be one Infernal Hound spawning every 2 minutes`
 
-- [ ] **Nethergarde Advisor**
-`- They should be friendly to Alliance and Horde players`
-`- Nethergarde Advisor should joing the Dreadknight fight, if it's up and there is no other Heroes (Justinius, Raynor or Melgromm) spawned`
-`- They can be human only during the event (no proof for Gnome version)`
-`- They should have dagger as a weapon and melee attack with it, if no mana for Fireball - Monster - Dagger Badass [2711]`
-`- Should have ability called: Fireball`
+- [ ] **General**
+`- He should be changed to neutral due to not interfering with low level people leveling`
+`- He is missing his sword Monster - Sword2H, Horde Skull Blue Flame [13623]`
 
-- [ ] **Justinius the Harbinger / Lord Marshal Raynor / Melgromm Highmountain**
-`- They should stay for a while after they kill Dreadknight and then go through the portal. (is it possible to make them go streight through the portal, not stoping in that waypoint in the bottom of the stairs?)`
-`- Sometimes they spawn without their bodyguards (fix it!)`
-`- It looks like they should ignore Portal Hounds in the camp and aggro only Invading Felguard, Felguard Lieutenant, Fel Stalker, Anguisher, Voidwalker, Infernal and Dreadknight`
+- [ ] **Spawn** 
+`- He should be present in one of 7 zones: Blasted Lands (Kazzak place), Eastern Plaguelands, Azshara, Hinterlands, Stranglethorn Vale, Winterspring and Searing Gorge`
+`- When spawned he should leave pool of fire in the place of his spawn point`
+`- Two Hand of the Highlord [19214] should spawn with him and follow the patrol`
 
-- [ ] **Justinius the Harbinger**
-`- He should be accompanied by 5 Vindicators`
-`- He should use his Greater Blessing of Might [33564] on nearby allies when entering the field (don't know if only Alliance, or both Horde and Alliance) (sometimes he uses it and sometimes he doesn't)`
-`- Missing random say: Yes! Hold your feet firm! Lend aid to your cohorts and together our banded strength will overcome these demons! Cling fiercely to hope and grip tightly your weapons, and trust that the Light will pierce this darkness and shine through to morrow's dawn!`
-`- He should say this randomly instead of yell on spawn: With each passing moment, I see the people of Azeroth prove again the reasons we have come. It is with solemn pride that I fight with you, and if I die this day, then I die among friends.`
-`- He should say this randomly instead of yell on spawn: The demons should be in no doubt that we are their nemesis and, though they wish our destruction, it is we who bring about their ruin. Kazzak and his forces will be diminished and defeated by this coalition. And to do this, we must throw at them our bodies and hearts, for they seek no less than the obliteration of this world.`
-
-- [ ] **Lord Marshal Raynor and Stormwind Marshal**
-`- Lord Marshal Raynor is missing his bodyguards (5) called Stormwind Marshal [19386]`
-
-- [ ] **Lord Marshal Raynor**
-`- He is using wrong two-hand sword model, should be using Monster - Sword2H, Red White Broad [12949]` https://youtu.be/4kjRKojcE0I?t=115
-![image](https://user-images.githubusercontent.com/11255782/47224350-98c20f80-d3bb-11e8-82b4-3c44f1f5bfaf.png)
-
-- [ ] **Stormwind Marshal**
-`- They should be using main-hand weapon Monster - Sword, Golden Long [12944] instead`
-
-- [ ] **Melgromm Highmountain**
-`- His Totem should buff nearby players too`
-
-- [ ] **Thunder Bluff Huntsman**
-`- They should be using two-hand weapon Monster - Axe, 2H Battle A03 Red [14643] instead`
-
-- [ ] **Dreadknight**
-`- Dreadknigh Shadowbolt Volley ability should hit only NPCs on Aggro list, currently it's hitting every Argent Guaridan, Bowman, Hunter and Protector in X yards`
-`- When Dreadknight spawns,  4 Invading Voidwalkers and 2 Invading Anguishers spawns too (they are not linked together!!!)`
-![image](https://user-images.githubusercontent.com/11255782/47217188-dd43b000-d3a7-11e8-8100-6bf34ec1548a.png)
-`- Voidwalkers and Anguishers walk to the places on the screenshot above`
-`- Dreadknight stays at the portal and waits for one of the Hereos to come to him`
-![image](https://user-images.githubusercontent.com/11255782/47218194-48db4c80-d3ab-11e8-82b0-d77002ab8e93.png)
-`- Voidwalkers spots for Dreadknight wave:`
-![image](https://user-images.githubusercontent.com/11255782/47217297-33185800-d3a8-11e8-883a-08c4b1d70454.png)
-![image](https://user-images.githubusercontent.com/11255782/47217314-43303780-d3a8-11e8-8713-a7d3b17d09da.png)
-![image](https://user-images.githubusercontent.com/11255782/47217324-4aefdc00-d3a8-11e8-91ab-9be249922168.png)
-![image](https://user-images.githubusercontent.com/11255782/47217337-59d68e80-d3a8-11e8-9371-b0ec5c654b9a.png)
-`- Anguishers spots for Dreadknight wave:`
-![image](https://user-images.githubusercontent.com/11255782/47217269-1bd96a80-d3a8-11e8-9208-9989bfa9e5c7.png)
-![image](https://user-images.githubusercontent.com/11255782/47217287-2c89e080-d3a8-11e8-982e-0189a9f28f9b.png)
-
-- [ ] **Invading Voidwalker**
-`- They are too big`
-`- There shouldn't be a wave containing only Voidwalkers (they are support - 1 or 2 in the wave)`
-`- They should cast Shadow Bolt spell from the distance`
-
-- [ ] **Invading Anguisher**
-`- They are too big (please use normal morph size)`
-
-- [ ] **Invading Felguard**
-`- They are too big`
-![image](https://user-images.githubusercontent.com/11255782/47217988-94412b00-d3aa-11e8-95f0-58c4ed2bb768.png)
-
-- [ ] **Invading Infernal**
-`-`
-
-- [ ] **Felguard Lieutenant** (LOOK THE WAVING SYSTEMS ON TOP!)
-`- He should use Skull Crack [15621] ability`
-`- It seems there is no Felguard Lieutenant only waves instead (read below)`
-`- There should be one Felguard Lieutenant for each Invading Felguard wave`
-
-- [ ] **Invading Fel Stalker**
-`- They are too big (should be a little bit bigger than normal Fel Stalkers - warlock pet)`
-![image](https://user-images.githubusercontent.com/11255782/47218109-fef26680-d3aa-11e8-9b44-34a8b6a66fb4.png)
-
-- [ ] **Portal Hound** I NEED MORE RESEARCH FOR IT (WIP -> https://youtu.be/ZqEy5VMXvDs?t=287)
-`- They are summoned via Summon Infernaling (Portal Hound) [33708] spell`
-`- They are too big`
-`- They should use: Arcane Explosion ability and Immolation [19483]`
-`- They have Immolation Aura (something like this ability)` can be seen here https://youtu.be/4kjRKojcE0I?t=106
-`- They should run past the barricades, set camp on fire and fight with guards in the camp (not under the portal)`
-![image](https://user-images.githubusercontent.com/11255782/47218582-90160d00-d3ac-11e8-9083-a32484b136a9.png)
-![image](https://user-images.githubusercontent.com/11255782/47218973-c3a56700-d3ad-11e8-901a-9e99ac772701.png)
-
-- [ ] **Portal Hound Camp Flames**
-`- There are several spot in the camp where flames appear whenever Portal Hound is near`
-alliance-tent
-![image](https://user-images.githubusercontent.com/11255782/47230303-31f82280-d3ca-11e8-9872-ba8ff729b845.png)
-alliance-cart
-![image](https://user-images.githubusercontent.com/11255782/47230311-37ee0380-d3ca-11e8-8b66-ee5ce4a09a58.png)
-alliance-night-elf-tent
-![image](https://user-images.githubusercontent.com/11255782/47230424-74b9fa80-d3ca-11e8-88bb-08d0a0e78a70.png)
-alliance-barrel-cart
-![image](https://user-images.githubusercontent.com/11255782/47230446-80a5bc80-d3ca-11e8-8cfd-16b8c0270e36.png)
-horde-big-cart
-![image](https://user-images.githubusercontent.com/11255782/47230464-8d2a1500-d3ca-11e8-9b6d-2bba209ece1d.png)
-horde-ballista
-![image](https://user-images.githubusercontent.com/11255782/47230573-e134f980-d3ca-11e8-83d3-9a5602c44fcb.png)
-horde-cart-2
-![image](https://user-images.githubusercontent.com/11255782/47230644-15a8b580-d3cb-11e8-8161-09c55befe2e1.png)
-neutral-ballista
-![image](https://user-images.githubusercontent.com/11255782/47230664-21947780-d3cb-11e8-8d06-05d09d28ce72.png)
-allianec-ballista
-![image](https://user-images.githubusercontent.com/11255782/47231002-0ece7280-d3cc-11e8-92ea-a022db28d253.png)
-
-- [ ] **Infernal Hound**
-`- Infernal Hounds are only spawning with Highlord Kruul, they aren't present near the Dark Portal`
-
-- [ ] **Argent Protector, Argent Guardian**
-`- They should be walking around normally too, not only running`
-`- We need like 3/4 more of them (2 Protectors / 2 Guardians)`
-
-- [ ] **Argent Protector**
-`- They are using wrong shield modle, should be using Monster - Shield, Kite Metal [1984]`
-`- They are using wrong sword model, should be using Monster - Sword, Long Ornate [2178]`
-PROOF
-![image](https://user-images.githubusercontent.com/11255782/47224099-fefa6280-d3ba-11e8-9223-db68d51e9bb7.png)
+- [ ] **Patrol** Research -> Random say timer during patrol (5-10 minutes?)
+`- He should be patroling in on of 7 zones (look more in comments)`
+`- He kills every NPC, friendly, hostile or neutral on the patrol way with his Kazzak's Assault ability`
 
 
-- [ ] **Argent Bowman**
-`- They are using wrong main-hand weapond model, should be using Monster - Dagger, Exotic B01 Green [17282]`
-`- They are using wrong bow model, should be using Monster - Bow, Gray [5261]`
-`- Should be using Arcane Shot instead of Serpent Sting`
-![image](https://user-images.githubusercontent.com/11255782/47218333-b6877880-d3ab-11e8-904f-384c180ff4fa.png)
-![image](https://user-images.githubusercontent.com/11255782/47224242-526cb080-d3bb-11e8-8238-ba577bd962ea.png)
+- [ ] **Despawn**
+`- If he don't die in 4-6 hours he should despawn and appear in another location`
+`- Before despawning he should yell despawn quote`
 
-- [ ] **Argent Hunter** https://youtu.be/4kjRKojcE0I?t=86
-`- They are way more different than Bowman in the first place`
-`- They are using wrong main-hand weapon model, should be using Weapon: Monster - Axe, 2H Horde Green War Axe [12294]`
-`- They are using wrong thrown (Axe) instead of shooting the bow, should be using Thrown weapon: Monster - Throwing Axe [5856])`
-![image](https://user-images.githubusercontent.com/11255782/47224188-2cdfa700-d3bb-11e8-885c-d3fb57cdc38e.png)
+- [ ] **Loot table**
+`- Eskhandar's Pelt `
+`- Blacklight Bracer`
+`- Fel Infused Leggings`
+`- Doomhide Gauntlets`
+`- Flayed Doomguard Belt`
+`- Infernal Headcage`
+`- Blazefury Medallion`
+`- Empyrean Demolisher`
+`- Amberseal Keeper`
+`- Ring of Entropy`
+`- The Eye of Shadow (100%)`
 
-- [ ] **Argent Hunter, Bowman, Protector, Guardian**
-`- Lower damage for the different waving system 2.0/3.0`
+- [ ] **Quotes**
+Random Yells:
+`- Azeroth has cowered too long under our shadow! Now, feel the power of the Burning Crusade, and despair!`
+`- Your fate is sealed, Azeroth! I will find the Aspect Shards, and then you will not stand against our might!`
+`- Cower, little worms! Your heroes are nothing! Your saviors will be our first feast!`
+`- Where? Where are the Shards! You cannot hide them from us!`
+`- Your world will die, mortals! Your doom is now at hand!`
+Killing the player:
+` Your own strength feeds me, (player)!`
+Despawn:
+`- Ha! This place is not yet worthy of my infliction.`
 
-- [ ] **Agent Proudwell**
-`- He is missing his weapon Monster - Sword, Broadsword Silver Hilt [5305] and shield Monster - Shield, Wall Metal Silver [12980]`
-`- He should be accompanied by one Argent Protector and one Argent Guardian (or random)`
-![image](https://user-images.githubusercontent.com/11255782/46919472-25498800-cfe0-11e8-8b1c-910ffe324815.png)
-![image](https://user-images.githubusercontent.com/11255782/47263330-ad0f2500-d4ff-11e8-9848-05f24e08f641.png)
+- [ ] **Abilities**
+Most of his abilities are copies from Lord Kazzak, which is fitting since he is Kazzak's minion. He has yet to be observed using all of Kazzak's abilities.
+`- Melee attacks: No heavy melee damage with his normal attacks (Probably 200-400 per hit)` ^3
+`- Shadowbolt Volley [21341:  Shoots out a long range cluster of shadow bolts for around 2,000 damage. Even when out of line of sight players will still be hit.`
+`- Twisted Reflection [21063]: Magic debuff that heals Highlord Kruul for 25,000hp every time he attacks the afflicted player. Also slows the affected player's movement speed by 50%.`
+`- Thunderclap [23931]: An AOE nature spell hitting close range players. Low damage, slows movement speed by 33% and Time between attacks increased by 100%`
+`- Void Bolt [21066]: Single target shadowbolt Kruul casts on his target. This does around 3,000 shadow damage.` ^2
+`- Capture Soul [21054]**:  When a player is killed, Highlord Kruul instantly gains 70,000 hp and yells` ^4
+comments for Abilities:
+`- Kazzak's Assault [33512]: Instantly kills Kruul's target in 20 yards. Only used against NPCs.` ^5
 
+**^2** `TwinStar states it does 3,500 (no school?) damage`
+**^3** `krmtdfrog, January 10 2007: The fight is basically the same thing as Kazzak. Shadowbolt volleys, etc. He just melee hits a lot harder and enrages sooner`
+**^4** `Highlord Kruul: Your own strength feeds me, (player)!`
+**^5** `Video proof: https://youtu.be/6XEk6HnOoYU?t=92 (look on the left side)`
 
-- [ ] **Silvermoon Magister**
-`- Should fight demons when they are near her`
-`- We are missing one sitting Silvermoon Magister in the Horde camp here:`
-![image](https://user-images.githubusercontent.com/11255782/47219719-ea649d00-d3af-11e8-9bc2-802ab45ea761.png)
-with proof https://youtu.be/ThiCnkxDi60?t=233
-![image](https://user-images.githubusercontent.com/11255782/47219736-fcded680-d3af-11e8-8cb3-ed707c28a2f1.png)
+- [ ] **BERSKER / ENRAGE STAGE** (research abilities -> 32964/21340/32965
+`- He should use Berserk [21340] or [32965] during his enrage stage`
+`- Enrage / Berserk should happen after 90 seconds` ^1
 
+**^1** `By echos (347 – 1·3) on 2007/01/11 (Patch 2.0.3): His enrage timer is 90 secs compared to Kazzak's 3 min timer.`
 
-!IMPORTANT -> Works fine (just trigger should be closer do the portal, look below)
-- [ ] **Lord Marshal Raynor and Gnomeregan Conjuror**
-When Lord Marshal Raynor is about to spawn to fight with Dreadknight the following should happen:
-`- Two Gnomeregan Conjurors spawn on trigger (I listed It below) - they should spawn with Dreadknight, so they have time to summon Lord Marshal Raynor`
-`- Gnomeregan Conjurors should start to cast portal to Stormwind`
-`- After a second or so, Lord Marshal Raynor goes out of the portal and creates formation with Stormwind Marshals`
-`- Lord Marshal Raynor and Stormwind Marshals rush to the portal to fight Dreadknight together`
+- [ ] **Twisted Reflection [21063] behaviour**
+`- Twisted Reflection can be spell-reflected by a tank warrior`
 
-- [ ] **TRIGGER: https://youtu.be/21_YJ2uZBL0**
-`- Trigger should be close to the portal, here:`
-![image](https://user-images.githubusercontent.com/11255782/46920063-be7c9c80-cfe8-11e8-8324-0986892c77b4.png)
+https://www.youtube.com/watch?v=AnpaiuoJFkU
+https://www.youtube.com/watch?v=aWoZvfXBctg
 
+WIP - Azshara:
+No 100% confirmed info, but Smaily is onto something
+(Primal WoW image)
 
+Hinter:
+https://www.youtube.com/watch?v=IATR6-8QD48
 
-Currently researching weird Crash + Immolation aura:
-https://youtu.be/4kjRKojcE0I?t=108
+- [ ] **Winterspring** (I think he moves further to Darkwhisper Gorge bridge but I couldn't find proof of that)
+`- Image containing Waypoints from ".gps" command`
+![kruul-winterspring](https://user-images.githubusercontent.com/11255782/46922351-18d92580-d008-11e8-943c-e3b50c7e4c5a.png)
 
-http://amiyuy.com/wow/gallery/World%20Events/Opening%20of%20the%20Dark%20Portal%20and%20High%20Lord%20Kruul/slides/amiyuy_010907_160946.html
+- [ ] **Searing Gorge**
+`- Image containing Waypoints from ".gps" command`
+![kruul - searing gorge](https://user-images.githubusercontent.com/11255782/46920990-39987f80-cff6-11e8-8696-034f2c6f16a8.png)
 
-Portal Hounds summoning research
-https://www.wowhead.com/spell=33712/create-infernaling-summoner-portal-hound
-
-Invading demons abilities research
-Fel Stalkers -> Mana Burn [13321]
+- [ ] **Stranglethorn Vale**
+`- Image containing Waypoints from ".gps" command`
+![kruul - stranglethorn vale](https://user-images.githubusercontent.com/11255782/46920988-343b3500-cff6-11e8-9de5-d654a79c1b1a.png)
